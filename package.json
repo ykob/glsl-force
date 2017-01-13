@@ -1,0 +1,15 @@
+{
+  "name": "glsl-force",
+  "version": "1.0.0",
+  "description": "glsl functions for calculate acceleration.",
+  "author": {
+    "name": "yoichi kobayashi",
+    "url": "http://www.tplh.net/"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ykob/glsl-force.git"
+  },
+  "private": "true"
+}
