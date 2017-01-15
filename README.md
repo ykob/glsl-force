@@ -1,5 +1,7 @@
 # glsl-force
 
+glsl functions for calculate acceleration.
+
 ## install
 
 ```
